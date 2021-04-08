@@ -1,0 +1,13 @@
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\bin\Debug\netcoreapp3.1\LINQ_Queries.exe
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\bin\Debug\netcoreapp3.1\LINQ_Queries.deps.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\bin\Debug\netcoreapp3.1\LINQ_Queries.runtimeconfig.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\bin\Debug\netcoreapp3.1\LINQ_Queries.runtimeconfig.dev.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\bin\Debug\netcoreapp3.1\LINQ_Queries.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\bin\Debug\netcoreapp3.1\LINQ_Queries.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\obj\Debug\netcoreapp3.1\LINQ_Queries.csprojAssemblyReference.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\obj\Debug\netcoreapp3.1\LINQ_Queries.AssemblyInfoInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\obj\Debug\netcoreapp3.1\LINQ_Queries.AssemblyInfo.cs
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\obj\Debug\netcoreapp3.1\LINQ_Queries.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\obj\Debug\netcoreapp3.1\LINQ_Queries.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\obj\Debug\netcoreapp3.1\LINQ_Queries.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\LINQ_Queries\LINQ_Queries\obj\Debug\netcoreapp3.1\LINQ_Queries.genruntimeconfig.cache

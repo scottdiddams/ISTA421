@@ -1,0 +1,13 @@
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\obj\Debug\netcoreapp3.1\DelagateLab.csprojAssemblyReference.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\obj\Debug\netcoreapp3.1\DelagateLab.AssemblyInfoInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\obj\Debug\netcoreapp3.1\DelagateLab.AssemblyInfo.cs
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\obj\Debug\netcoreapp3.1\DelagateLab.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\bin\Debug\netcoreapp3.1\DelagateLab.exe
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\bin\Debug\netcoreapp3.1\DelagateLab.deps.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\bin\Debug\netcoreapp3.1\DelagateLab.runtimeconfig.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\bin\Debug\netcoreapp3.1\DelagateLab.runtimeconfig.dev.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\bin\Debug\netcoreapp3.1\DelagateLab.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\bin\Debug\netcoreapp3.1\DelagateLab.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\obj\Debug\netcoreapp3.1\DelagateLab.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\obj\Debug\netcoreapp3.1\DelagateLab.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\DelagateLab\DelagateLab\obj\Debug\netcoreapp3.1\DelagateLab.genruntimeconfig.cache

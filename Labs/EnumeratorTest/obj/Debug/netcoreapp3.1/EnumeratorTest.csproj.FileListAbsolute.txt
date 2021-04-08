@@ -1,0 +1,16 @@
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\EnumeratorTest.exe
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\EnumeratorTest.deps.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\EnumeratorTest.runtimeconfig.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\EnumeratorTest.runtimeconfig.dev.json
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\EnumeratorTest.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\EnumeratorTest.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\BinaryTree.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\bin\Debug\netcoreapp3.1\BinaryTree.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.csprojAssemblyReference.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.AssemblyInfoInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.AssemblyInfo.cs
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.csproj.CopyComplete
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.dll
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.pdb
+C:\Users\ASUS\MSSA2021\ISTA421\Labs\EnumeratorTest\obj\Debug\netcoreapp3.1\EnumeratorTest.genruntimeconfig.cache

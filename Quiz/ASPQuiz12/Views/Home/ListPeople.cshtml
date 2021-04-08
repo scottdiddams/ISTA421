@@ -1,0 +1,34 @@
+﻿@model IQueryable<Person>
+@{
+    Layout = null;
+}
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Responses</title>
+    <link rel="stylesheet" href="/lib/bootstrap/dist/css/bootstrap.css" />
+</head>
+<body>
+    <div class="text-center p-2">
+        <h2>Here is the list of people</h2>
+        <table class="table table-bordered table-striped table-sm">
+            <thead>
+                <tr><th>Name</th><th>Spouse's Name</th><th>Dog's Name</th><th>Cat's Name</th></tr>
+            </thead>
+            <tbody>
+                @foreach (var r in Model)
+                {
+                    <tr>
+                        <td>@r.nameId</td>
+                        <td>@r.spouseName</td>
+                        <td>@r.dogName</td>
+                        <td>@r.catName</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <a class="btn btn-primary" asp-action="AddPerson">Add another person to the list</a>
+    </div>
+</body>
+</html>
